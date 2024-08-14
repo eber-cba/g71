@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Monitor", "disponible": true, "precio": 2000 },
+  { "id": 2, "nombre": "Mouse", "disponible": false, "precio": 3000 },
+  { "id": 3, "nombre": "CPU", "disponible": true, "precio": 4000 },
+  { "id": 4, "nombre": "Tarjeta de video", "disponible": true, "precio": 5000 },
+  { "id": 5, "nombre": "Monitor", "disponible": false, "precio": 6000 }
+]
